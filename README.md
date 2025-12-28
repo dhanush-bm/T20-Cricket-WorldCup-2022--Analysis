@@ -11,3 +11,5 @@
 ● Utilized advanced analytical techniques to identify patterns, trends, and outliers in cricket player performance data, providing actionable recommendations for team strategies and player selections
 
 ● Implemented various performance evaluation metrics such as strike rate, batting average, and boundary percentage, enabling comprehensive assessments of players' contributions during the T20 World Cup
+
+<img width="1276" height="718" alt="T20 Worldcup" src="https://github.com/user-attachments/assets/31e819f0-1ca5-42be-920b-03ac4d0923fc" />
